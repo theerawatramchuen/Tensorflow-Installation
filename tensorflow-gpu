@@ -8,7 +8,7 @@ conda update --all
 conda create --name tf
 activate tf
 
-conda install -c anaconda tensorflow-gpu
+conda install -c anaconda tensorflow-gpu==1.14.0
 conda install -c anaconda cudatoolkit
 conda install -c anaconda cudnn
 

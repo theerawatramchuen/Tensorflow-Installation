@@ -15,6 +15,7 @@ conda install -c anaconda cudnn
 conda install numpy
 conda install pandas
 conda install matplotlib
+conda install scikit-learn
 
 python
 >>> import tensorflow as tf

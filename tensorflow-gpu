@@ -17,6 +17,7 @@ conda install pandas
 conda install matplotlib
 conda install scikit-learn
 conda install pillow
+pip install opencv-python
 
 python
 >>> import tensorflow as tf

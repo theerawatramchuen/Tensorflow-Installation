@@ -31,7 +31,6 @@ conda install keras-gpu
 
 conda install ipykernel
 python -m ipykernel install --user --name tf --display-name "TensorFlow-GPU"
-
 jupyter notebook
 
 import keras

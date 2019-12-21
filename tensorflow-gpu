@@ -1,4 +1,5 @@
 install Anaconda Python
+Open Terminal Window with Admin for Windows10
 
 conda update conda
 conda update anaconda

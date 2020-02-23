@@ -1,7 +1,9 @@
 # Tensorflow-Installation
 ## Which TensorFlow and CUDA version combinations are compatible?
 https://stackoverflow.com/questions/50622525/which-tensorflow-and-cuda-version-combinations-are-compatible
+## Window
 ![](https://i.stack.imgur.com/dOZtR.png)
+## Linux
 ![](https://i.stack.imgur.com/Laiii.png)
 
 ## Install Tensorflow(gpu) บน Window 10 เบื้องต้น

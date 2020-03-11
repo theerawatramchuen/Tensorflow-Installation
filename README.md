@@ -11,3 +11,6 @@ https://medium.com/@chaampkub/object-detection-%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9
 
 ## Vistual Studio 2015 ISO file download link 6GB file size
 https://go.microsoft.com/fwlink/?LinkId=708984
+
+## Install CUDA 10 Ubuntu 18.04
+https://medium.com/@exesse/cuda-10-1-installation-on-ubuntu-18-04-lts-d04f89287130

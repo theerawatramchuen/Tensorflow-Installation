@@ -14,3 +14,6 @@ https://go.microsoft.com/fwlink/?LinkId=708984
 
 ## Install CUDA 10 Ubuntu 18.04
 https://medium.com/@exesse/cuda-10-1-installation-on-ubuntu-18-04-lts-d04f89287130
+
+## Install GPU Driver Ubuntu 18.04
+https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-18-04-bionic-beaver-linux

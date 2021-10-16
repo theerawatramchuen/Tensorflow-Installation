@@ -1,4 +1,4 @@
-# Deep Learning Enironment Installation Window & Linux
+# Deep Learning Environment Installation Window & Linux
 ## Python 3.6, Pytorch & cudatoolkit 10.0, Tensorflow 1.14  
 Python Anaconda Environment Setup For Deep Learning Development <br/>
 Install Anaconda to D:\ [ https://repo.anaconda.com/.../Anaconda3-2021.05-Windows... ] <br/>
